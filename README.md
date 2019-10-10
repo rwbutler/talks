@@ -5,6 +5,13 @@ Speaker decks & associated materials for talks given at past conferences & event
 
 ---
 
+### [10/10/2019 - Solving the Captive Portal Problem](https://github.com/rwbutler/talks/blob/master/10-10-19-solving-the-captive-portal-problem.pdf) at [NSLondon](https://www.meetup.com/NSLondon/)
+Detecting captive portals and other WiFi hotspots without Internet access in an iOS app and using that information to provide better feedback to users.
+
+[[Blog]](https://medium.com/@rwbutler/solving-the-captive-portal-problem-on-ios-9a53ba2b381e) 
+[[Slides]](https://github.com/rwbutler/talks/blob/master/10-10-19-solving-the-captive-portal-problem.pdf)
+[[Source Code]](https://github.com/rwbutler/Connectivity/)
+
 ### [18/01/2019 - Retro Cheat Codes for iOS Apps](https://github.com/rwbutler/Cheats)
 
 Discussed the implementation of console video game-style cheat codes for iOS apps.
@@ -68,6 +75,6 @@ Covered FeatureFlags, an open-source framework written in Swift for iOS enabling
 
 ---
 
-### [19/04/2017 - Setting Sail for Adventure: Agility in App Development](https://github.com/rwbutler/talks/blob/master/17-04-19-codemobile-agility-in-app-development.pdf)
+### [19/04/2017 - Setting Sail for Adventure: Agility in App Development](https://github.com/rwbutler/talks/blob/master/17-04-19-codemobile-agility-in-app-development.pdf) at [CodeMobile](https://www.codemobile.co.uk)
 
 [[Slides]](https://github.com/rwbutler/talks/blob/master/17-04-19-codemobile-agility-in-app-development.pdf)
