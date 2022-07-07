@@ -2,7 +2,10 @@
 Speaker decks & associated materials for talks given at past conferences & events.
 
 ## 2022
-[29/06/2022 - Pride Retrospective](https://github.com/rwbutler/talks/blob/master/29-06-22-pride-retrospective.pdf) at [Go City](https://www.gocity.com)
+
+---
+
+### [29/06/2022 - Pride Retrospective](https://github.com/rwbutler/talks/blob/master/29-06-22-pride-retrospective.pdf) at [Go City](https://www.gocity.com)
 
 ## 2019
 
