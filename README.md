@@ -1,11 +1,16 @@
 # 🎤 Talks
 Speaker decks & associated materials for talks given at past conferences & events.
 
+# 2023
+
+### [29/06/2023 - \[Blog\] Pride Retrospective 2023](https://github.com/rwbutler/talks/blob/master/23-06-28-pride-retrospective-2023.pdf) at [Go City](https://www.gocity.com)
+Updated slides based on last year's talk and blog post.
+
 ## 2022
 
 ### [14/12/2022 - Christmas Retrospective](https://github.com/rwbutler/talks/blob/master/22-12-14-christmas-retrospective.pdf) at [Go City](https://www.gocity.com)
 
-### [29/06/2022 - [Talk] Pride Retrospective](https://github.com/rwbutler/talks/blob/master/22-06-29-pride-retrospective.pdf) at [Go City](https://www.gocity.com)
+### [29/06/2022 - \[Talk\] Pride Retrospective](https://github.com/rwbutler/talks/blob/master/22-06-29-pride-retrospective.pdf) at [Go City](https://www.gocity.com)
 
 ## 2019
 
